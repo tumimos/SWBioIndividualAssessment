@@ -1,6 +1,6 @@
 # SWBioIndividualAssessment
 This material was submitted for the SWBio Data Science and Machine Learning module (Jan2025).
-This is an analysis script written in Python to assess the trends of the prevalence of Autism Spectrum Disorder as tracked by th the U.S. Centers for Disease Control and Prevention (CDC) Autism Spectrum Disorder pages (https://www.cdc.gov/autism/data-research/data-table.html). 
+This is a Jupyter Notebook analysis script written in Python to assess the trends of the prevalence of Autism Spectrum Disorder as tracked by th the U.S. Centers for Disease Control and Prevention (CDC) Autism Spectrum Disorder pages (https://www.cdc.gov/autism/data-research/data-table.html). 
 
 To run:
 1.	Download a copy of the data table from https://www.cdc.gov/autism/data-research/data-table.html, which Is maintained and updated by the CDC, and save it as “autism_prevalence.csv”. Alternatively, Update the import command to match the name of the file on your machine. The script should be able to run with updated versions of the data file, on the condition that the column headers remain the same.
